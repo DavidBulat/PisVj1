@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace PisVj1
 {
-    internal class Class1
+    internal class newClass
+
     {
+        void prazno()
+        {
+
+        }
     }
 }
