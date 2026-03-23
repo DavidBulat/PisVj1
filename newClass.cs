@@ -9,9 +9,13 @@ namespace PisVj1
     internal class newClass
 
     {
+
         void prazno()
         {
-
+            
         }
+
+      
+
     }
 }
