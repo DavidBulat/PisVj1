@@ -8,5 +8,6 @@ namespace PisVj1
 {
     internal class Class1
     {
+        console.writeline("nova promjena za konflikt");
     }
 }
