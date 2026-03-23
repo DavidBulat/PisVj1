@@ -6,16 +6,13 @@ using System.Threading.Tasks;
 
 namespace PisVj1
 {
-    internal class newClass
+    internal class NewClass
 
     {
-
         void prazno()
         {
-            
+            console.writeline("nova promjena za konflikt");
         }
-
-      
 
     }
 }
